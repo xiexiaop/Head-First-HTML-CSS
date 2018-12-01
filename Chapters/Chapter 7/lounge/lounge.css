@@ -23,3 +23,15 @@
       font-family: serif
     } */
 
+    p.greentea {
+      color: green;
+    }
+
+    p.blueberry{
+      color: purple;
+    }
+
+    p.raspberry{
+      color: blue;
+    }
+
