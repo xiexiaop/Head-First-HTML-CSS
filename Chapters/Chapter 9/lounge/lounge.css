@@ -1,0 +1,36 @@
+body{
+    font-size: small;
+    font-family: Verdana,  Helvetica, Arial, sans-serif;
+    line-height: 1.6em;
+}
+
+h1, h2 {
+    color: #007e7e;
+}
+
+h1 {
+    font-size: 150%;
+}
+
+h2 {
+    font-size: 130%;
+}
+
+#guarantee {
+    border-color:white;
+    border-width: thin;
+    border-style: dashed;
+    background-color: #a7cece;
+    /* 内边距 */
+    padding: 25px;
+    padding-left: 80px;
+    /* 外边距 */
+    margin: 30px;
+    margin-right: 250px;
+    /* 背景图像 */
+    /* url内容不需要写引号 */
+    background-image: url(images/background.gif);
+    background-repeat: no-repeat;
+    background-position: top left;
+    border-radius: 15px;
+}
