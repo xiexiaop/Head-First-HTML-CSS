@@ -31,7 +31,7 @@ table {
   margin:          0px 20px 0px 20px;
   border:          thin solid black;
   caption-side:    top;
-  /* border-spacing:  0px 10px; */
+  border-spacing:  0px;
   border-collapse: collapse;
 }
 
@@ -61,5 +61,13 @@ li {
   padding-top:      5px;
   margin-left:      20px;
   list-style-position: outside;
+}
+
+.center {
+  text-align: center;
+}
+
+.right {
+  text-align: right;
 }
 
